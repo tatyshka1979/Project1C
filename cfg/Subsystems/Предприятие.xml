@@ -81,6 +81,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.ОбменСЦентральнойБазой</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.БотОфисМенеджер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ОсновнаяВалютаВзаиморасчетов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.БазоваяЕдиницаИзмерения</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
