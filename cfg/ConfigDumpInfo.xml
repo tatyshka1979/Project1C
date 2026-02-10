@@ -633,12 +633,13 @@
 		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента.Form" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c.0" configVersion="84ad558b4e23644f89ed6a270e8d75a800000000"/>
 		<Metadata name="Document.ПоступлениеДенег.Help" id="fd455a27-23d6-458c-827d-779819b10f57.1" configVersion="4e33ed500f9af044a44da2b42c0c9b5200000000"/>
 		<Metadata name="Document.ПоступлениеДенег.ObjectModule" id="fd455a27-23d6-458c-827d-779819b10f57.0" configVersion="563bedce6d2a7642878b8ab9dfb1804700000000"/>
-		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="33873189b5c7024a8d28bff11965382800000000">
+		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="13bff3d62cb33b4bb6f132f9903c872500000000">
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Товар" id="0527b9a2-4d97-4f58-b130-f934fefa5077"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Количество" id="0b24afaa-c16d-41da-b7f1-3734ff24c7c2"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары" id="1e5fca80-7a62-4a56-924a-d84ad889567d"/>
 			<Metadata name="Document.ПриходТовара.Attribute.Организация" id="2265b7da-3e2f-48aa-bda7-3f677ed8a083"/>
 			<Metadata name="Document.ПриходТовара.Attribute.Склад" id="4f285600-0b11-410b-9de5-b3f8a020c52b"/>
+			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.ЕдиницаИзмерения" id="53fb37c2-8f48-4094-ae6b-0878d3880659"/>
 			<Metadata name="Document.ПриходТовара.Attribute.Поставщик" id="5f0a6f85-c742-4946-81ce-a6461b6b55ab"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Сумма" id="89c22812-7ce3-4cde-8a8d-9f9c6b31d6ba"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Цена" id="9d41c8a7-a593-427b-a748-7b9d8d8e05d5"/>
@@ -651,7 +652,7 @@
 		<Metadata name="Document.ПриходТовара.Help" id="465028ef-ab50-4508-b3ba-c29202551673.1" configVersion="f2e72ffc5b93d040a0c869fd695bcb2500000000"/>
 		<Metadata name="Document.ПриходТовара.ManagerModule" id="465028ef-ab50-4508-b3ba-c29202551673.2" configVersion="979b3d811d0d41489adc3185db29ecb700000000"/>
 		<Metadata name="Document.ПриходТовара.ObjectModule" id="465028ef-ab50-4508-b3ba-c29202551673.0" configVersion="efafdf0c13e9e643b35e161eafe30bdf00000000"/>
-		<Metadata name="Document.РасходТовара" id="b6a6ceb6-2d64-414f-8082-84705f6840d7" configVersion="0820668d04dc5241901924e9cc16dead00000000">
+		<Metadata name="Document.РасходТовара" id="b6a6ceb6-2d64-414f-8082-84705f6840d7" configVersion="7fbade297b78434bb4068cbe83bf7bf300000000">
 			<Metadata name="Document.РасходТовара.Attribute.Склад" id="07a5cc8d-f7f1-42fd-adb0-da1b1098ab9f"/>
 			<Metadata name="Document.РасходТовара.TabularSection.Товары.Attribute.Цена" id="1b96c376-10ff-4849-a777-b7a2b0fc2cd9"/>
 			<Metadata name="Document.РасходТовара.TabularSection.Товары.Attribute.Сумма" id="3651a812-ccbf-4cf6-a56c-cd1412046e36"/>
@@ -660,6 +661,7 @@
 			<Metadata name="Document.РасходТовара.Command.ПечатьРасходнойНакладной" id="542ec856-1045-4d55-a115-c8f68e567e18"/>
 			<Metadata name="Document.РасходТовара.Attribute.ВидЦен" id="5a84a06a-888a-447b-a523-bd60ce1342be"/>
 			<Metadata name="Document.РасходТовара.Attribute.Покупатель" id="6a0d444b-cd90-4c14-a9d4-dd6fa17e1ea7"/>
+			<Metadata name="Document.РасходТовара.TabularSection.Товары.Attribute.ЕдиницаИзмерения" id="72d62887-ad29-4191-a583-78739744b373"/>
 			<Metadata name="Document.РасходТовара.Attribute.Организация" id="7c9e7a6c-5145-4897-8a35-c311968f8281"/>
 			<Metadata name="Document.РасходТовара.Attribute.Валюта" id="9a66487c-96bb-4dda-9545-1af0ba030ccd"/>
 			<Metadata name="Document.РасходТовара.TabularSection.Товары.Attribute.Товар" id="a6257e5c-26c6-497c-9f7a-3fca27dc0712"/>
